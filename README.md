@@ -1,2 +1,2 @@
-# Rainbow-poem
+# Rainbow-homework
 repository of my home work
