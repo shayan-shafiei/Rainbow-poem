@@ -1,4 +1,5 @@
 the rainbow and the unicorn
+monkey
 purple
 pink 
 orange
@@ -7,3 +8,4 @@ green
 yellow
 redthe are the colors of rainbow
 unicorn
+monkey
